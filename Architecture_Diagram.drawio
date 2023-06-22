@@ -1,0 +1,300 @@
+<mxfile host="app.diagrams.net" modified="2023-06-22T08:29:33.168Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="hhh6BrUkXMBdls0ktv0M" version="21.5.0" type="device">
+  <diagram name="Page-1" id="NNsDACTMoBm02Q_jeBu-">
+    <mxGraphModel dx="1363" dy="880" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBorderColor=#000000;strokeColor=#040101;" edge="1" parent="1" source="Low56MfOgZpMy5L3pDnQ-1" target="Low56MfOgZpMy5L3pDnQ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-1" value="Phone_pe_Training Data_table&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="80" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="Low56MfOgZpMy5L3pDnQ-2" target="Low56MfOgZpMy5L3pDnQ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-2" value="Data Preprossing" style="whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="Low56MfOgZpMy5L3pDnQ-4" target="Low56MfOgZpMy5L3pDnQ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-4" value="Feature Section&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="Low56MfOgZpMy5L3pDnQ-6" target="Low56MfOgZpMy5L3pDnQ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-6" value="Tokenization &amp;amp; Tf&amp;nbsp; Vectorization&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="Low56MfOgZpMy5L3pDnQ-8" target="Low56MfOgZpMy5L3pDnQ-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-8" value="Classification Model Training&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="Low56MfOgZpMy5L3pDnQ-10" target="Low56MfOgZpMy5L3pDnQ-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-10" value="Model Validation&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#100e0e;" edge="1" parent="1" source="Low56MfOgZpMy5L3pDnQ-12" target="Low56MfOgZpMy5L3pDnQ-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-12" value="Hypetparameter Tuning&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="Low56MfOgZpMy5L3pDnQ-14" target="Low56MfOgZpMy5L3pDnQ-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-14" value="Retrining Model" style="whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="Low56MfOgZpMy5L3pDnQ-18" target="Low56MfOgZpMy5L3pDnQ-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-18" value="Making Pickle file of Model&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="Low56MfOgZpMy5L3pDnQ-20" target="Low56MfOgZpMy5L3pDnQ-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-20" value="Rest API Designing&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="Low56MfOgZpMy5L3pDnQ-22" target="Low56MfOgZpMy5L3pDnQ-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-22" value="Dockerising the APi" style="whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="Low56MfOgZpMy5L3pDnQ-24" target="Low56MfOgZpMy5L3pDnQ-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-24" value="Deploying on Kubernetes&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="Low56MfOgZpMy5L3pDnQ-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-26" value="Classified_data_table" style="whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#080303;" edge="1" parent="1" source="Low56MfOgZpMy5L3pDnQ-31" target="Low56MfOgZpMy5L3pDnQ-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-31" value="Data Preprossing" style="whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="Low56MfOgZpMy5L3pDnQ-33" target="Low56MfOgZpMy5L3pDnQ-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-33" value="Feature Section&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="Low56MfOgZpMy5L3pDnQ-35" target="Low56MfOgZpMy5L3pDnQ-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-35" value="Tokenization &amp;amp; Tf&amp;nbsp; Vectorization&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="Low56MfOgZpMy5L3pDnQ-36" target="Low56MfOgZpMy5L3pDnQ-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-36" value="Regression Model Trianing&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="740" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="Low56MfOgZpMy5L3pDnQ-38" target="Low56MfOgZpMy5L3pDnQ-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-38" value="Model Validation&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="740" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#100e0e;" edge="1" parent="1" source="Low56MfOgZpMy5L3pDnQ-40" target="Low56MfOgZpMy5L3pDnQ-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-40" value="Hypetparameter Tuning&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="740" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Low56MfOgZpMy5L3pDnQ-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="Low56MfOgZpMy5L3pDnQ-43" target="Low56MfOgZpMy5L3pDnQ-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-43" value="Retrining Model" style="whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="Low56MfOgZpMy5L3pDnQ-45" target="Low56MfOgZpMy5L3pDnQ-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-45" value="Making Pickle file of Model&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="Low56MfOgZpMy5L3pDnQ-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-47" value="Rest API Designing&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;strokeColor=#000000;" edge="1" parent="1" source="Low56MfOgZpMy5L3pDnQ-49" target="Low56MfOgZpMy5L3pDnQ-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-49" value="Deploying on Kubernetes&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="Low56MfOgZpMy5L3pDnQ-50" target="Low56MfOgZpMy5L3pDnQ-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-50" value="Customer Suitability Predicted_Data" style="whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0D0D0D;" edge="1" parent="1" source="Low56MfOgZpMy5L3pDnQ-52" target="Low56MfOgZpMy5L3pDnQ-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-52" value="Adobe Marketing Team&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-54" value="Run Promotion Campaigns according to&amp;nbsp; Business Team Guidance&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="950" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-56" value="Data Cleaning Dropping null values removing unnessesary&amp;nbsp; data components&amp;nbsp;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#050505;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="255" y="140" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-57" value="Selecting Suitbable feature impacting output with co-sine simmilarity&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#050505;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="455" y="140" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-58" value="Tokenizing &amp;amp; Tf vectorization to convert data in numerical format&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#050505;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="655" y="140" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Low56MfOgZpMy5L3pDnQ-58" target="Low56MfOgZpMy5L3pDnQ-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-60" value="Classifying data using&amp;nbsp; Random Forest Regressor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#050505;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="860" y="130" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-61" value="Cheking Model Accurancy by performing Cross validation&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#050505;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="335" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-62" value="Hapyerparameter tuning to Improve result with Gridsearch CV&amp;nbsp; or Randomsearch CV" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#050505;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="475" width="170" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-63" value="Predicting Suitability Customer using random forest regressor&amp;nbsp;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#050505;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="870" y="575" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-64" value="&lt;font color=&quot;#000000&quot;&gt;Phone_pe Customer Identification&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry y="70" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBorderColor=#000000;strokeColor=#040101;" edge="1" parent="1" source="Low56MfOgZpMy5L3pDnQ-66" target="Low56MfOgZpMy5L3pDnQ-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-66" value="Phone_pe_Training Data_table with Suitbale offers" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="125" y="1330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="Low56MfOgZpMy5L3pDnQ-68" target="Low56MfOgZpMy5L3pDnQ-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-68" value="Data Preprossing" style="whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="325" y="1330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="Low56MfOgZpMy5L3pDnQ-70" target="Low56MfOgZpMy5L3pDnQ-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-70" value="Feature Section&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="525" y="1330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="Low56MfOgZpMy5L3pDnQ-72" target="Low56MfOgZpMy5L3pDnQ-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-72" value="Tokenization &amp;amp; Tf&amp;nbsp; Vectorization&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="725" y="1330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="Low56MfOgZpMy5L3pDnQ-74" target="Low56MfOgZpMy5L3pDnQ-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-74" value="Classification Model Training&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="925" y="1330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="Low56MfOgZpMy5L3pDnQ-76" target="Low56MfOgZpMy5L3pDnQ-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-76" value="Model Validation&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="925" y="1470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#100e0e;" edge="1" parent="1" source="Low56MfOgZpMy5L3pDnQ-78" target="Low56MfOgZpMy5L3pDnQ-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-78" value="Hypetparameter Tuning&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="925" y="1610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Low56MfOgZpMy5L3pDnQ-81">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="645" y="1640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="Low56MfOgZpMy5L3pDnQ-81" target="Low56MfOgZpMy5L3pDnQ-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-81" value="Retrining Model" style="whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="725" y="1610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="Low56MfOgZpMy5L3pDnQ-83" target="Low56MfOgZpMy5L3pDnQ-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-83" value="Making Pickle file of Model&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="725" y="1470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="Low56MfOgZpMy5L3pDnQ-85" target="Low56MfOgZpMy5L3pDnQ-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-85" value="Rest API Designing&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="525" y="1470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="Low56MfOgZpMy5L3pDnQ-87" target="Low56MfOgZpMy5L3pDnQ-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-87" value="Dockerising the APi" style="whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="325" y="1470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="Low56MfOgZpMy5L3pDnQ-89" target="Low56MfOgZpMy5L3pDnQ-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-89" value="Deploying on Kubernetes&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="135" y="1470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-90" value="API intregretting to Webpage or APP for prediction based on user input &amp;amp; behaviour&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#000000;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="128" y="1576" width="195" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-91" value="Data Cleaning Dropping null values removing unnessesary&amp;nbsp; data components&amp;nbsp;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#050505;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1290" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-92" value="Selecting Suitbable feature impacting output with co-sine simmilarity&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#050505;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1290" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-93" value="Tokenizing &amp;amp; Tf vectorization to convert data in numerical format&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#050505;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="700" y="1290" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Low56MfOgZpMy5L3pDnQ-93" target="Low56MfOgZpMy5L3pDnQ-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-95" value="Model Training with KNN Algorithm &amp;amp; Cosine Simmilarity&amp;nbsp;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#050505;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="905" y="1280" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-96" value="Confirming output by passing sample Inputs to model" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#050505;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="1335" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Low56MfOgZpMy5L3pDnQ-97" value="&lt;font color=&quot;#0d0d0d&quot;&gt;Offer Recomendation&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="30" y="1190" width="145" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
